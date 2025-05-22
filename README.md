@@ -28,10 +28,10 @@ Employed data preprocessing, feature extraction, and model training with categor
 ![Predicted Disease](./Predicted%20Disease.jpg)
 
 **Training vs Validation Accuracy:**  
-![Accuracy Plot](./5f1dc9f0-a355-4493-9650-0e6662d57411.png)
+![Accuracy Plot](./Trainingvs%20Validation%20Accuracy.jpg)
 
 **Confusion Matrix:**  
-![Confusion Matrix](./e6d6660a-6af9-4782-9378-2c6edda16872.png)
+![Confusion Matrix](./Confusion%20Matrix.jpg)
 
 ## Tech Stack
 
