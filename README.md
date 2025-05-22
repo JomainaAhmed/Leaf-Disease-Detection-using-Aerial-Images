@@ -21,11 +21,11 @@ Employed data preprocessing, feature extraction, and model training with categor
 
 ## Sample Visuals
 
-**Input Leaf Image:**  
-![Test Image](./Input Leaf Image.jpg)
+## Input Leaf Image
+![Input Leaf Image](./Input%20Leaf%20Image.jpg)
 
-**Predicted Disease:**  
-![Prediction](./Predicted Disease.jpg)
+## Predicted Disease
+![Predicted Disease](./Predicted%20Disease.jpg)
 
 **Training vs Validation Accuracy:**  
 ![Accuracy Plot](./5f1dc9f0-a355-4493-9650-0e6662d57411.png)
