@@ -2,7 +2,7 @@
 This project demonstrates a deep learning pipeline developed to identify and classify plant diseases from aerial leaf imagery. Leveraging a custom convolutional neural network (CNN), the system accurately detects 38 types of crop diseases from over 87,000 high-resolution images, supporting precision agriculture with scalable AI-driven diagnostics.
 Employed data preprocessing, feature extraction, and model training with categorical cross-entropy loss and Adam optimizer. Achieved model accuracy through validation and fine-tuning hyperparameters
 
-# Project Summary:
+## Project Summary:
 Model Type: Custom CNN
 Frameworks: TensorFlow, Keras
 Dataset: 87,000+ aerial images of crop leaves
